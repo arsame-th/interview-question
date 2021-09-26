@@ -1,7 +1,7 @@
-## Answer interview question
+## Interview Question Answers
 
-### For answer section 01
-open Pretest_Front-end, Full Stack(answer).pdf to see the answer  
+### How to see  section 01 answers
+open Pretest_Front-end, Full Stack(answer).pdf to see the answers  
 
 ### How to start application for section 02 question 1 and 2
 cd question<1 or 2>  
