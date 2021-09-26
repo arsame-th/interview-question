@@ -1,5 +1,5 @@
 ## Answer question
-### How to start application for section 02 question 1 and 2)
+### How to start application for section 02 question 1 and 2
 cd question<1 or 2>  
 npm i  
 yarn start  
