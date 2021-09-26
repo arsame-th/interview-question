@@ -6,5 +6,5 @@ yarn start
 check on broswer: http://localhost:3000  
 
 ### How to start application for section 2 question 3
-cd question3
-node app.js <Fund Name>
+cd question3  
+node app.js <Fund Name>  
