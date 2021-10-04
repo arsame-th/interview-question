@@ -12,3 +12,8 @@ check on broswer: http://localhost:3000
 ### How to start application for section 2 question 3
 cd question3  
 node app.js <Fund_Name>  
+
+### How to start application for interview question 4
+cd question4  
+node app.js  
+input arrow number:<fill_in_number>
